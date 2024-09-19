@@ -7,4 +7,4 @@ SQL
 ---
 | Project link | Area of analysis | Project description |
 | :---:   | :---: | :---: |
-| 💻Tech layoffs | Data cleaning, transformation and analysis | Cleaned and transformed the raw dataset for EDA. Analyzed tech layoff data to identify trends, patterns, and insights. Showcased the findings in an interactive Power BI dashboard. 📊 |
+| 💻[Tech layoffs](https://github.com/miikkajuntunen/layoffs) | Data cleaning, transformation and analysis | Cleaned and transformed the raw dataset for EDA. Analyzed tech layoff data to identify trends, patterns, and insights. Showcased the findings in an interactive Power BI dashboard. 📊 |
